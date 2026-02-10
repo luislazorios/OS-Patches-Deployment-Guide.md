@@ -11,7 +11,7 @@ Step by Step of os patches deployment on support247
 
 ### 1. Access ITSupport247 Dashboard
 Log in to ConnectWise → Click "Asio"
-(/login.png)
+!(/login.png)
 
 Navigate to the **ITSupport247 dashboard**.
 
