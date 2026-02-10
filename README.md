@@ -47,7 +47,7 @@ Results appear in the Automation history and reporting sections.
 ✅ Schedule during off-peak hours
 ✅ Monitor compliance reports post-deployment
 
-
+Author Contact: Luis Lazo
 ## Expected Outcomes
 - Automatic detection of missing OS patches
 - Policy-based deployment across targets
