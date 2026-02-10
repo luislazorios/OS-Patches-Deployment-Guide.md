@@ -12,7 +12,7 @@ Step by Step of os patches deployment on ITsupport247
 ### 1. Access ITSupport247 Dashboard
 Log in to ConnectWise → Click "Asio"  
   
-![login](/login.png)
+![login](/Doc/login.png)
 
 Navigate to the **ITSupport247 dashboard**.
 
@@ -22,18 +22,18 @@ Dashboard → Find "Automation" section
 
 Locate the **Automation** module in the main dashboard.  
   
-![select](/select.png)
+![select](/Doc/select.png)
 
 ### 3. Schedule Patch Deployment
 Right panel → Hover over clock icon → Click  
   
-![clock](/clock.png)
+![clock](/Doc/clock.png)
 
 - Choose **"Run Now"** or **"Schedule"** deployment
 - Select **target devices/groups** for patch deployment
 - Click **"Run"** to save and execute the scheduled task  
   
-![select](/run.png)
+![select](/Doc/run.png)
 
 ### 4. Monitor Results
 View deployment status, success rates, and logs
